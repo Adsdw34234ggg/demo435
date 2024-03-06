@@ -1,8 +1,8 @@
 # packages in environment at /Users/shaicohen/opt/anaconda3/envs/hackathon_env:
 #
 # Name                    Version                   Build  Channel
-matplotlib                3.8.0           py310hecd8cb5_0  
-matplotlib-base           3.8.0           py310hb47e01b_0  
+matplotlib                3.7.0           py310hecd8cb5_0  
+matplotlib-base           3.7.0           py310hb47e01b_0  
 matplotlib-inline         0.1.6           py310hecd8cb5_0  
 ml_dtypes                 0.2.0           py310h5262a37_2    conda-forge
 multidict                 6.0.5           py310h90acd4f_0    conda-forge  
